@@ -1,6 +1,4 @@
-/* ===========================
-   RESET BÁSICO
-=========================== */
+/* RESET BÁSICO */
 * {
   margin: 0;
   padding: 0;
@@ -14,9 +12,7 @@ body {
   overflow-x: hidden;
 }
 
-/* ===========================
-   NAVBAR SUPERIOR
-=========================== */
+/* NAVBAR SUPERIOR */
 .home-navbar {
   width: 100%;
   padding: 20px 40px;
@@ -48,9 +44,7 @@ body {
   opacity: 0.7;
 }
 
-/* ===========================
-   HERO PRINCIPAL
-=========================== */
+/* HERO PRINCIPAL */
 .home-hero {
   text-align: center;
   padding: 180px 20px 120px 20px;
@@ -95,9 +89,7 @@ body {
   transform: scale(1.05);
 }
 
-/* ===========================
-   SECCIÓN DE CARACTERÍSTICAS
-=========================== */
+/* SECCIÓN DE CARACTERÍSTICAS */
 .features-section {
   padding: 80px 40px;
   text-align: center;
@@ -139,9 +131,7 @@ body {
   opacity: 0.8;
 }
 
-/* ===========================
-   SECCIÓN SOBRE NOSOTROS
-=========================== */
+/* SECCIÓN SOBRE NOSOTROS */
 .about-section {
   padding: 80px 40px;
   background: #ffffff;
@@ -162,9 +152,7 @@ body {
   line-height: 1.6;
 }
 
-/* ===========================
-   SECCIÓN CONTACTO
-=========================== */
+/* SECCIÓN CONTACTO */
 .contact-section {
   padding: 80px 40px;
   text-align: center;
@@ -190,9 +178,7 @@ body {
   background: #0055aa;
 }
 
-/* ===========================
-   FOOTER
-=========================== */
+/* FOOTER */
 .home-footer {
   text-align: center;
   padding: 20px;
@@ -203,9 +189,7 @@ body {
   opacity: 0.9;
 }
 
-/* ===========================
-   RESPONSIVE
-=========================== */
+/* RESPONSIVE */
 @media (max-width: 768px) {
   .home-navbar {
     flex-direction: column;
