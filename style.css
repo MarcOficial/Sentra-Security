@@ -58,6 +58,14 @@ body {
   color: white;
 }
 
+.hero-image {
+  width: 180px;
+  height: auto;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 18px rgba(0,0,0,0.25);
+}
+
 .home-hero h1 {
   font-size: 48px;
   margin-bottom: 15px;
